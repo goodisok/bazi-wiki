@@ -54,9 +54,8 @@
 - [[case-15-cong-sha-ge]] — 从杀格弃命从杀：丁火从杀势
 - [[case-16-liang-qi-cheng-xiang]] — 两气成象金木相战：庚金子水通关
 
-## Raw Sources
+## Machine-readable Index
 
-- [[raw/classics/di-tian-sui-chan-wei.md]] — 滴天髓阐微原典（任铁樵注本，58章）
-- [[raw/classics/yuan-hai-zi-ping.md]] — 渊海子平原典（南宋·徐子升，12章）
-- [[raw/classics/shen-feng-tong-kao.md]] — 神峰通考原典（明·张楠，21章）
-- [[raw/classics/san-ming-tong-hui.md]] — 三命通会原典（明·万民英，382章）
+- `manifest.json` — JSON 格式内容清单，供 AI 工具自动检索
+- `manifest.yaml` — YAML 格式内容清单
+- `CLAUDE.md` — AI 使用说明（Claude Code / Cursor 等自动读取）
