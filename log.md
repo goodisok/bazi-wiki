@@ -7,12 +7,12 @@
 - 领域：中国传统八字命理学（子平法）
 - 结构：SCHEMA.md, index.md, log.md + raw/, concepts/, entities/, methods/, queries/
 
-## [2026-05-25] ingest | 导入 bazi-skill 原始资料
-- 来源：jinchenma94/bazi-skill (GitHub 1540⭐)
-- 文件：raw/tools/bazi-skill-wuxing-tables.md — 五行天干地支十神参考表
-- 文件：raw/tools/bazi-skill-shichen-table.md — 时辰对照表、五鼠遁元
-- 文件：raw/tools/bazi-skill-dayun-rules.md — 大运顺逆排规则、起运计算
-- 文件：raw/tools/bazi-skill-classical-texts.md — 九本经典典籍核心规则摘要
+## [2026-05-25] remove | 移除 bazi-skill 外部来源资料（4份原始文件）
+- 移除：raw/tools/bazi-skill-wuxing-tables.md
+- 移除：raw/tools/bazi-skill-shichen-table.md  
+- 移除：raw/tools/bazi-skill-dayun-rules.md
+- 移除：raw/tools/bazi-skill-classical-texts.md
+- 所有引用页的 frontmatter sources 已清空
 
 ## [2026-05-25] create | 滴天髓阐微实战命例（8个案例）
 ### Cases 目录
