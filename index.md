@@ -34,4 +34,16 @@
 
 - [[pai-pan-bu-zhou]] — 排盘步骤：从年柱到时柱的完整排盘流程、大运排法、附带示例
 
+## Cases — 滴天髓阐微命例
+
+- [[cases/index]] — 命例目录与分类索引
+- [[case-01-ren-tie-qiao]] — 任铁樵自评命造：从旺格（火土旺），戊土日主
+- [[case-02-cai-ge-fu-gui]] — 正财格富贵命：庚金日主，财生杀护财
+- [[case-03-cai-ge-pin-jian]] — 偏财格破格贫贱命：甲木建禄，比劫夺财
+- [[case-04-sha-yin-xiang-sheng]] — 杀印相生武贵命：丙火羊刃，杀印相生
+- [[case-05-shi-shen-zhi-sha]] — 食神制杀武贵命：乙木得令，食神制杀
+- [[case-06-cong-ge]] — 从革格从旺命：庚金旺极，顺势而行
+- [[case-07-guan-sha-hun-za]] — 官杀混杂一生动荡：己土伤官当令
+- [[case-08-tiao-hou]] — 调候命例冬金寒木：辛金子月，丙火解冻
+
 ## Queries

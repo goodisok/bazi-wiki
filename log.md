@@ -14,7 +14,17 @@
 - 文件：raw/tools/bazi-skill-dayun-rules.md — 大运顺逆排规则、起运计算
 - 文件：raw/tools/bazi-skill-classical-texts.md — 九本经典典籍核心规则摘要
 
-## [2026-05-25] ingest | 九本经典命理典籍知识页（9页）
+## [2026-05-25] create | 滴天髓阐微实战命例（8个案例）
+### Cases 目录
+- cases/index.md — 命例目录与分类索引
+- cases/case-01-ren-tie-qiao.md — 任铁樵自评：从旺格
+- cases/case-02-cai-ge-fu-gui.md — 正财格富贵：庚金财生杀
+- cases/case-03-cai-ge-pin-jian.md — 偏财格破格贫贱：比劫夺财
+- cases/case-04-sha-yin-xiang-sheng.md — 杀印相生武贵：丙火羊刃
+- cases/case-05-shi-shen-zhi-sha.md — 食神制杀武贵：乙木得令
+- cases/case-06-cong-ge.md — 从革格从旺：庚金旺极
+- cases/case-07-guan-sha-hun-za.md — 官杀混杂动荡：己土伤官
+- cases/case-08-tiao-hou.md — 调候命例冬金寒木：丙火解冻
 ### Concepts — 古籍经典
 - concepts/yuan-hai-zi-ping.md — 渊海子平：子平法奠基，十神体系、六亲、格局分类
 - concepts/di-tian-sui.md — 滴天髓：旺衰气势论，天道/地道/人道三元体系
