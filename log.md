@@ -14,7 +14,17 @@
 - 文件：raw/tools/bazi-skill-dayun-rules.md — 大运顺逆排规则、起运计算
 - 文件：raw/tools/bazi-skill-classical-texts.md — 九本经典典籍核心规则摘要
 
-## [2026-05-25] create | 第一批核心概念页面（8页）
+## [2026-05-25] ingest | 九本经典命理典籍知识页（9页）
+### Concepts — 古籍经典
+- concepts/yuan-hai-zi-ping.md — 渊海子平：子平法奠基，十神体系、六亲、格局分类
+- concepts/di-tian-sui.md — 滴天髓：旺衰气势论，天道/地道/人道三元体系
+- concepts/zi-ping-zhen-quan.md — 子平真诠：格局论集大成，用神/相神/喜忌精准区分
+- concepts/san-ming-tong-hui.md — 三命通会：命理百科全书，神煞大全
+- concepts/qiong-tong-bao-jian.md — 穷通宝鉴：调候用神论，寒暖燥湿分析
+- concepts/shen-feng-tong-kao.md — 神峰通考：病药说，批判神煞滥用
+- concepts/qian-li-ming-gao.md — 千里命稿：实战断命技法，宫位论法
+- concepts/xie-ji-bian-fang-shu.md — 协纪辨方书：神煞起例与择日
+- concepts/guo-lao-xing-zong.md — 果老星宗：星命术（七政四余）与八字交叉
 
 ### Concepts (5)
 - concepts/tian-gan-di-zhi.md — 天干地支（含藏干、冲合刑害）
