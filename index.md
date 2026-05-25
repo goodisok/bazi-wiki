@@ -54,4 +54,6 @@
 - [[case-15-cong-sha-ge]] — 从杀格弃命从杀：丁火从杀势
 - [[case-16-liang-qi-cheng-xiang]] — 两气成象金木相战：庚金子水通关
 
-## Queries
+## Raw Sources
+
+- [[raw/classics/di-tian-sui-chan-wei.md]] — 滴天髓阐微原典（任铁樵注本，58章）
