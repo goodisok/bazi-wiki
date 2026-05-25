@@ -45,5 +45,13 @@
 - [[case-06-cong-ge]] — 从革格从旺命：庚金旺极，顺势而行
 - [[case-07-guan-sha-hun-za]] — 官杀混杂一生动荡：己土伤官当令
 - [[case-08-tiao-hou]] — 调候命例冬金寒木：辛金子月，丙火解冻
+- [[case-09-shang-guan-pei-yin]] — 伤官佩印文贵命：癸水伤官格
+- [[case-10-zheng-yin-ge]] — 正印格师儒之命：甲木得癸水滋润
+- [[case-11-shang-guan-jian-guan]] — 伤官见官灾祸不断：癸水甲木克戊土
+- [[case-12-hua-qi-ge]] — 化气格甲己化土：全局土旺极
+- [[case-13-nu-ming-guan-xing]] — 女命官星透而夫贵：己土甲木合
+- [[case-14-bi-jie-duo-cai]] — 比劫夺财一生破败：乙木比劫林立
+- [[case-15-cong-sha-ge]] — 从杀格弃命从杀：丁火从杀势
+- [[case-16-liang-qi-cheng-xiang]] — 两气成象金木相战：庚金子水通关
 
 ## Queries
