@@ -57,3 +57,5 @@
 ## Raw Sources
 
 - [[raw/classics/di-tian-sui-chan-wei.md]] — 滴天髓阐微原典（任铁樵注本，58章）
+- [[raw/classics/yuan-hai-zi-ping.md]] — 渊海子平原典（南宋·徐子升，12章）
+- [[raw/classics/shen-feng-tong-kao.md]] — 神峰通考原典（明·张楠，21章）

@@ -7,7 +7,9 @@
 - 领域：中国传统八字命理学（子平法）
 - 结构：SCHEMA.md, index.md, log.md + raw/, concepts/, entities/, methods/, queries/
 
-## [2026-05-25] remove | 移除 bazi-skill 外部来源资料（4份原始文件）
+## [2026-05-25] ingest | 渊海子平、神峰通考原典下载
+- raw/classics/yuan-hai-zi-ping.md — 渊海子平原典（12章，来源：古文岛）
+- raw/classics/shen-feng-tong-kao.md — 神峰通考原典（21章，来源：古文岛） 外部来源资料（4份原始文件）
 - 移除：raw/tools/bazi-skill-wuxing-tables.md
 - 移除：raw/tools/bazi-skill-shichen-table.md  
 - 移除：raw/tools/bazi-skill-dayun-rules.md
