@@ -32,6 +32,18 @@ wiki/bazi/
 
 ## 使用方式
 
+### 作为其他项目的子模块
+
+本仓库已作为子模块集成到以下项目：
+
+- **[wenyuan](https://github.com/goodisok/wenyuan)** — 八字命理 AI 项目，引用本知识库作为底层推理支撑
+
+在其他项目中添加子模块：
+
+```bash
+git submodule add https://github.com/goodisok/bazi-wiki path/to/bazi-wiki
+```
+
 ### Obsidian（推荐）
 用 Obsidian 打开 `wiki/bazi/` 目录：
 - `[[wikilinks]]` 交叉引用
